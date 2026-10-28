@@ -1,2 +1,7 @@
-# leahsheila2-svg.github.io
-Investment and financial analysis portfolio showcasing financial modelling, company valuation, credit analysis and investment research projects.
+# Leah Sheila Wanjiku
+
+### Finance & Investment Portfolio
+
+Financial modelling | Company valuation | Credit analysis | Investment research
+
+Welcome to my professional portfolio, featuring financial models and analytical projects demonstrating my approach to valuation, investment analysis, credit assessment, and financial data analytics.
